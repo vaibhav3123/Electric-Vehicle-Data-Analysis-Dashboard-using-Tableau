@@ -1,7 +1,7 @@
 # ⚡🚗 **Electric Vehicle Data Analysis Dashboard**  
 
 ## 📌 **Project Overview**  
-The **Electric Vehicle Data Analysis Dashboard** is an interactive **Power BI** visualization that provides insights into **EV adoption trends, manufacturer contributions, model performance, and regional distribution**.  
+The **Electric Vehicle Data Analysis Dashboard** is an interactive **Tableau** visualization that provides insights into **EV adoption trends, manufacturer contributions, model performance, and regional distribution**.  
 
 This project is designed to help **businesses, policymakers, and researchers** make data-driven decisions by analyzing electric vehicle adoption patterns, Clean Alternative Fuel Vehicle (CAFV) eligibility, and year-over-year growth trends.  
 
@@ -48,7 +48,7 @@ Certain states, particularly California, Texas, and New York, have seen higher a
 ---
 
 ## 🛠 **Tools & Technologies Used**  
-🚀 **Power BI** – Data visualization and dashboard development.  
+🚀 **Tableau** – Data visualization and dashboard development.  
 📊 **Excel** – Data preprocessing and transformation for analysis.  
 
 ---
