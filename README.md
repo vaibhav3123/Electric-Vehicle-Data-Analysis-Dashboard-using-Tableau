@@ -16,7 +16,6 @@ This project is designed to help **businesses, policymakers, and researchers** m
 ---
 
 ## 📊 **Key Performance Indicators (KPIs)**  
-
 ### 🚗 **Electric Vehicle Statistics**  
 - **Total Registered Vehicles:** 1,50,422  
 - **Average Electric Range:** 67.83 miles  
@@ -54,10 +53,8 @@ Certain states, particularly California, Texas, and New York, have seen higher a
 
 ---
 
-
 ## 🔗 **Project Links**  
 🔹 **Live Dashboard:** https://public.tableau.com/views/ElectrivVehicleDashboard/Electricvehicledashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
-
 ---
 
 ## 🤝 **Connect with Me**  
